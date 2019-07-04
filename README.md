@@ -13,4 +13,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details
 probando el rebase
 HOLA PROBANDO MODIFICACIONES DEL FORK
 
-
+prueba stash
