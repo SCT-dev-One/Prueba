@@ -14,3 +14,9 @@ probando el rebase
 HOLA PROBANDO MODIFICACIONES DEL FORK
 
 prueba stash
+<<<<<<< HEAD
+=======
+
+Nuevo comentario
+Se esta probando el comando $git cherry-pack
+>>>>>>> 4f7185d... Se esta probando el comando git cherry-pack
